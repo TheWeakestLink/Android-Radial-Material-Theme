@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_fb">#3b5998</color>
+    <color name="button_fb_pressed">#3b5998ff</color>
+    <color name="button_primary">#63C2EC</color>
+    <color name="button_primary_pressed">#63C2ECff</color>
+    <color name="button_secondary">#ccc</color>
+    <color name="button_secondary_pressed">#aaa</color>
+</resources>
